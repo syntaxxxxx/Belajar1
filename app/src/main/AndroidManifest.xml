@@ -14,7 +14,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".PassingObject"></activity>
+        <activity android:name=".CallBack"></activity>
+        <activity android:name=".PassingObject" />
         <activity android:name=".PassingData" />
         <activity android:name=".Move" />
         <activity android:name=".Main2Activity" />
